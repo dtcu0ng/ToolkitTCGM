@@ -1,9 +1,9 @@
 # ToolkitTCGM_Official
-A BIG upgrade of APKInstallTCGM. A powerful tool to easier use TCGM :D
++ A BIG upgrade of APKInstallTCGM. A powerful tool to easier use TCGM :D
 
 # (c) CuongZ. All rights reserved.
 
-Version 1.0
++ Version 1.0
 
 # Issues/Bugs:
 + I don't know, it worked on my computer.
