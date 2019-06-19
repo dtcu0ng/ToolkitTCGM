@@ -41,12 +41,13 @@ Version 1.0
 + I want to send thank to all the person who help me in this project: 
 @Snoop05 in XDA-developers for the best ADB built-in ( https://forum.xda-developers.com/member.php?u=4638083 )
 
-NirSoft for the powerful shell, NirCMD ( https://www.nirsoft.net/utils/nircmd.html )
++ NirSoft for the powerful shell, NirCMD ( https://www.nirsoft.net/utils/nircmd.html )
 
-Thank all J2TeaM Community who give feedback for my previous project, APKInstallTCGM ( https://www.facebook.com/groups/j2team.community/permalink/847187048946750/ )
++ Thank all J2TeaM Community who give feedback for my previous project, APKInstallTCGM ( https://www.facebook.com/groups/j2team.community/permalink/847187048946750/ )
 
-For the MVP of the project: is me :3 ( CuongZ )
++ For the MVP of the project: is me :3 ( CuongZ )
 
+Love all, peace <3
 (c) CuongZ
 
 
