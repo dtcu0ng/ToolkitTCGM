@@ -16,7 +16,7 @@ Version 1.0
 + The built-in ADB is upgraded ( using this https://forum.xda-developers.com/showthread.php?t=2588979 )
 + Set window size of shell to best looking
 # Changelogs [Version 0.8 BETA]
-+ Not have to much change with APKInstallTCGM
++ Not have too much change with APKInstallTCGM
 + Separated (one-by-one) function to separate execute files.
 
 # What's this app work?
