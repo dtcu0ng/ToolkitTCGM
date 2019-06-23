@@ -28,7 +28,8 @@
 + NirCMD ( https://www.nirsoft.net/utils/nircmd.html )
 
 # How to install ( with Install.zip )
-+ Download TCGMTookit_OfficialBuild.zip ( click on Install.zip -> View RAW ) ( contained ADB, NirCMD )
++ Download TCGMTookit_OfficialBuild.zip ( click on Install.zip -> View RAW ) ( contained ADB, NirCMD ) extract this
++ Or clone this repo: ( git clone https://github.com/CuongZ/ToolkitTCGM_Official.git )
 + Enable Developer Mode ( watch this video: https://youtu.be/ksQB_eniDYU )
 + Run and follow the script
 
