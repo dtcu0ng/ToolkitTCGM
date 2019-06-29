@@ -3,12 +3,17 @@
 
 # (c) CuongZ. All rights reserved.
 
-+ Version 1.0
++ Version 1.2
 
 # Issues/Bugs:
 + I don't know, it worked on my computer.
 
-# Changelogs [Version 1.0]
+# Changelogs [Version 1.2]
++ I think Tencent fixed the error cause can't install some huge APK, so the function Push/Install will be deleted
++ Cleaned up the code.
++ UI improved to best-looking for any devices.
+
+# Old Changelogs [Version 1.0]
 + Introducing Shortcut Maker: This function helps you make a fast shortcut to launch your apps/games.
 + Introducing Push+Install by Yourself: This function help you pushing large .apk ( over 1GB ) package into your emulator's storage and install an ES File Manager to help you install the package you pushed before.
 + The Shortcut Maker using NirCMD ( https://www.nirsoft.net/utils/nircmd.html ). Thanks NirSoft provide this powerful tool :D
