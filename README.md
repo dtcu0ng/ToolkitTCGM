@@ -8,21 +8,9 @@
 # Issues/Bugs:
 + I don't know, it worked on my computer.
 
-# Changelogs [Version 1.2]
-+ I think Tencent fixed the error cause can't install some huge APK, so the function Push/Install will be deleted
-+ Cleaned up the code.
-+ UI improved to best-looking for any devices.
+# Changelogs / Download
++ You will see the download link / changelog in here: https://github.com/CuongZ/ToolkitTCGM_Official/releases
 
-# Old Changelogs [Version 1.0]
-+ Introducing Shortcut Maker: This function helps you make a fast shortcut to launch your apps/games.
-+ Introducing Push+Install by Yourself: This function help you pushing large .apk ( over 1GB ) package into your emulator's storage and install an ES File Manager to help you install the package you pushed before.
-+ The Shortcut Maker using NirCMD ( https://www.nirsoft.net/utils/nircmd.html ). Thanks NirSoft provide this powerful tool :D
-+ UI Improved
-+ The built-in ADB is upgraded ( using this https://forum.xda-developers.com/showthread.php?t=2588979 )
-+ Set window size of shell to best looking
-# Changelogs [Version 0.8 BETA]
-+ Not have too much change with APKInstallTCGM
-+ Separated (one-by-one) function to separate execute files.
 
 # What's this app work?
 + Install another app, game, make shortcut for Tencent Gaming Buddy.
@@ -32,11 +20,18 @@
 + ADB command-line (for install, push )
 + NirCMD ( https://www.nirsoft.net/utils/nircmd.html )
 
-# How to install ( with Install.zip )
-+ Download TCGMTookit_OfficialBuild.zip ( click on Install.zip -> View RAW ) ( contained ADB, NirCMD ) extract this
+# How to install ( with a zip file )
++ Download TCGMTookit_OfficialBuild.zip ( https://github.com/CuongZ/ToolkitTCGM_Official/releases ) ( contained ADB, NirCMD ) extract this
 + Or clone this repo: ( git clone https://github.com/CuongZ/ToolkitTCGM_Official.git )
 + Enable Developer Mode ( watch this video: https://youtu.be/ksQB_eniDYU )
 + Run and follow the script
+
+# How to build with your NirCMD & ADB
++ Download this repo or using Git clone command: ( git clone https://github.com/CuongZ/Source-TookitTCGM.git )
++ First, copy your ADB files ( just need adb.exe and AdbWinAPI.dll )
++ Next, copy your nircmd.exe and nircmdc.exe to folder "compoments"
++ Run Toolkit.bat
++ Enjoy!
 
 # What's include in the zip?
 + ADB
