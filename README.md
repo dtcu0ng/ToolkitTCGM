@@ -3,7 +3,7 @@
 
 # (c) CuongZ. All rights reserved.
 
-+ Version 1.2
++ Version 3.2
 
 # Issues/Bugs:
 + I don't know, it worked on my computer.
