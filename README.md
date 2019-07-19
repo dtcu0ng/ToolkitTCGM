@@ -22,14 +22,13 @@
 
 # How to install ( with a zip file )
 + Download TCGMTookit_OfficialBuild.zip ( https://github.com/CuongZ/ToolkitTCGM_Official/releases ) ( contained ADB, NirCMD ) extract this
-+ Or clone this repo: ( git clone https://github.com/CuongZ/ToolkitTCGM_Official.git )
 + Enable Developer Mode ( watch this video: https://youtu.be/ksQB_eniDYU )
 + Run and follow the script
 
 # How to build with your NirCMD & ADB
-+ Download this repo or using Git clone command: ( git clone https://github.com/CuongZ/Source-TookitTCGM.git )
++ Download this repo or using Git clone command: ( git clone https://github.com/CuongZ/TookitTCGM_Official.git )
 + First, copy your ADB files ( just need adb.exe and AdbWinAPI.dll )
-+ Next, copy your nircmd.exe and nircmdc.exe to folder "compoments"
++ Next, copy your nircmd.exe and nircmdc.exe to folder "bin"
 + Run Toolkit.bat
 + Enjoy!
 
