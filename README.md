@@ -9,7 +9,7 @@
 + I don't know, it worked on my computer.
 
 # Changelogs / Download
-+ You will see the download link / changelog in here: https://github.com/CuongZ/ToolkitTCGM_Official/releases
++ You will see the download link / changelog in here: [Releases](https://github.com/CuongZ/ToolkitTCGM_Official/releases)
 
 
 # What's this app work?
@@ -18,11 +18,11 @@
 # What's language for written this app?
 + Just some command line, like @echo, pause,...
 + ADB command-line (for install, push )
-+ NirCMD ( https://www.nirsoft.net/utils/nircmd.html )
++ [NirCMD]( https://www.nirsoft.net/utils/nircmd.html )
 
 # How to install ( with a zip file )
-+ Download TCGMTookit_OfficialBuild.zip ( https://github.com/CuongZ/ToolkitTCGM_Official/releases ) ( contained ADB, NirCMD ) extract this
-+ Enable Developer Mode ( watch this video: https://youtu.be/ksQB_eniDYU )
++ [Download](https://github.com/CuongZ/ToolkitTCGM_Official/releases) TCGMTookit_OfficialBuild.zip ( contained ADB, NirCMD ) and extract this
++ Enable Developer Mode [like this video](https://youtu.be/ksQB_eniDYU)
 + Run and follow the script
 
 # How to build with your NirCMD & ADB
@@ -42,11 +42,11 @@ $ git clone https://github.com/CuongZ/TookitTCGM_Official.git
 
 # Credit:
 + I want to send thank to all the person who help me in this project: 
-@Snoop05 in XDA-developers for the best ADB built-in ( https://forum.xda-developers.com/member.php?u=4638083 )
++ [@Snoop05](https://forum.xda-developers.com/member.php?u=4638083) in XDA-developers for the best ADB built-in
 
-+ NirSoft for the powerful shell, NirCMD ( https://www.nirsoft.net/utils/nircmd.html )
++ NirSoft for the powerful shell, [NirCMD](https://www.nirsoft.net/utils/nircmd.html)
 
-+ Thank all J2TeaM Community who give feedback for my previous project, APKInstallTCGM ( https://www.facebook.com/groups/j2team.community/permalink/847187048946750/ )
++ Thank all J2TeaM Community who give feedback for my previous project, [APKInstallTCGM](https://www.facebook.com/groups/j2team.community/permalink/847187048946750/)
 
 + For the MVP of the project: is me :3 ( CuongZ )
 
