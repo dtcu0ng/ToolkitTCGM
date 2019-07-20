@@ -1,5 +1,5 @@
 # ToolkitTCGM_Official
-+ A BIG upgrade of APKInstallTCGM. A powerful tool to easier use TCGM :D
++ A powerful tool helps use TCGM / Gameloop better
 
 # (c) CuongZ. All rights reserved.
 
@@ -26,7 +26,10 @@
 + Run and follow the script
 
 # How to build with your NirCMD & ADB
-+ Download this repo or using Git clone command: ( git clone https://github.com/CuongZ/TookitTCGM_Official.git )
++ Download this repo or using Git clone command:
+```bash
+$ git clone https://github.com/CuongZ/TookitTCGM_Official.git
+```
 + First, copy your ADB files ( just need adb.exe and AdbWinAPI.dll )
 + Next, copy your nircmd.exe and nircmdc.exe to folder "bin"
 + Run Toolkit.bat
