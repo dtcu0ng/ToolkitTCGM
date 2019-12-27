@@ -7,6 +7,7 @@
 
 # Issues/Bugs:
 + I don't know, it worked on my computer.
++ The lastest version is drop now. This software is not supported anymore. Any updates for this project will in another repositories.
 
 # Changelogs / Download
 + You will see the download link / changelog in here: [Releases](https://github.com/CuongZ/ToolkitTCGM_Official/releases)
