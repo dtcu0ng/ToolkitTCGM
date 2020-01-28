@@ -3,9 +3,9 @@ title Shortcut Maker - Toolkit for Tencent Gaming Buddy
 cls
 @echo off
 echo Shortcut Maker for TCGM
-echo Build date: 19/07/2019
-echo Version: 3.6
-echo Source: https://github.com/CuongZ/TookitTCGM_OfficialBuild
+echo Build date: 28/01/2020
+echo Version: 5.0
+echo Source: https://github.com/CuongZ/TookitTCGM_Official
 echo[
 echo Logs:
 echo[
@@ -40,9 +40,9 @@ nircmd.exe shortcut "C:\Program Files\txgameassistant\AppMarket\AppMarket.exe" "
 cls
 @echo off
 echo Shortcut Maker for TCGM
-echo Build date: 7/7/2019
-echo Version: 3.5
-echo Source: https://github.com/CuongZ/TookitTCGM_OfficialBuild
+echo Build date: 28/1/2020
+echo Version: 5.0
+echo Source: https://github.com/CuongZ/TookitTCGM_Official
 echo[
 echo Logs:
 echo[
@@ -72,9 +72,9 @@ nircmd.exe shortcut "%work_dir%\AppMarket\AppMarket.exe" "%userprofile%\Desktop\
 cls
 @echo off
 echo Shortcut Maker for TCGM
-echo Build date: 7/7/2019
-echo Version: 3.5
-echo Source: https://github.com/CuongZ/TookitTCGM_OfficialBuild
+echo Build date: 28/1/2020
+echo Version: 5.0
+echo Source: https://github.com/CuongZ/TookitTCGM_Official
 echo[
 echo Logs:
 echo[

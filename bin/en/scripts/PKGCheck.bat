@@ -3,21 +3,21 @@ title Package Name Check - Toolkit for Tencent Gaming Buddy
 cls
 @ECHO off
 echo Package Name Check - Toolkit for Tencent Gaming Buddy
-echo Build date: 19/07/2019  9:12PM
-echo Source: https://github.com/CuongZ/ToolkitTCGM_OfficialBuild
+echo Build date: 28/01/2020
+echo Source: https://github.com/CuongZ/ToolkitTCGM_Official
 echo[
 echo -------------------------------------------
 echo[
 echo        Press any key to continue!
-echo              (c) CuongZ
+echo              (c) dtcu0ng
 echo[
 echo -------------------------------------------
 pause
 cls
 @echo off
 echo Package Name Check - Toolkit for Tencent Gaming Buddy
-echo Build date: 19/07/2019  9:12PM
-echo Source: https://github.com/CuongZ/ToolkitTCGM_OfficialBuild
+echo Build date: 28/01/2020
+echo Source: https://github.com/CuongZ/ToolkitTCGM_Official
 echo -----------------------------------------------------------
 echo Log:
 echo[
