@@ -6,8 +6,10 @@
 + Version 5.0
 
 # Issues/Bugs:
++ Waiting for bugs...You can report at Issues.
 + I don't know, it worked on my computer.
-+ The lastest version is drop now. This software is not supported anymore. Any updates for this project will in another repositories.
++ The lastest version is drop now. The software only will update when Issues it find by user.
++ Because is built by AutoIT, VirusTotal or some Ani-malware will delect this. We can't fix this problem.
 
 # Changelogs / Download
 + You will see the download link / changelog in here: [Releases](https://github.com/CuongZ/ToolkitTCGM_Official/releases)
