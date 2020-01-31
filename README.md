@@ -3,11 +3,13 @@
 
 # (c) CuongZ. All rights reserved.
 
-+ Version 3.2
++ Version 5.0
 
 # Issues/Bugs:
++ Waiting for bugs...You can report at Issues.
 + I don't know, it worked on my computer.
-+ The lastest version is drop now. This software is not supported anymore. Any updates for this project will in another repositories.
++ The lastest version is drop now. The software only will update when Issues it find by user.
++ Because is built by AutoIT, VirusTotal or some Ani-malware will delect this. We can't fix this problem.
 
 # Changelogs / Download
 + You will see the download link / changelog in here: [Releases](https://github.com/CuongZ/ToolkitTCGM_Official/releases)
@@ -26,21 +28,18 @@
 + Enable Developer Mode [like this video](https://youtu.be/ksQB_eniDYU)
 + Run and follow the script
 
-# How to build with your NirCMD & ADB
+# How to build with your NirCMD,ADB and AutoIT
 + Download this repo or using Git clone command:
 ```bash
 $ git clone https://github.com/CuongZ/TookitTCGM_Official.git
 ```
 + First, copy your ADB files ( just need adb.exe and AdbWinAPI.dll )
 + Next, copy your nircmd.exe and nircmdc.exe to folder "bin"
-+ Run Toolkit.bat
-+ Enjoy!
++ Review code on source_lastest.au3 and Compile this script
++ Run and enjoy!
 
 # What's include in the zip?
-+ ADB
-+ NirCMD
-+ 5 batch file ( for 3 function, 1 function selector and 1 interface config )
-
++ Toolkit
 # Credit:
 + I want to send thank to all the person who help me in this project: 
 + [@Snoop05](https://forum.xda-developers.com/member.php?u=4638083) in XDA-developers for the best ADB built-in
