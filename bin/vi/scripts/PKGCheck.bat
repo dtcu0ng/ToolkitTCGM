@@ -29,18 +29,5 @@ bin\adb shell pm list package -3
 @echo off
 echo -----------------------------------------------------------
 echo[
-echo Sau khi tim duoc ten goi mong muon, an phim 1 de tiep tuc tao shortcut, an phim 2 de quay lai bang chon chuc nang.
-CHOICE /N /C:12 /M "Ban chon:"%1
-IF ERRORLEVEL ==2 GOTO SELECTOR
-IF ERRORLEVEL ==1 GOTO MKSCT
-GOTO MKSCT
-:MKSCT
-cd bin
-cd vi
-cd scripts
-call MkSctBat.bat
-:SELECTOR
-cd bin
-cd vi
-cd scripts
+pause
 call Selector.bat
