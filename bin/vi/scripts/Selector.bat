@@ -6,10 +6,6 @@ adb kill-server
 @echo off	
 echo Force closing ADB interface...	
 taskkill /F /IM adb.exe	
-echo Force closing NirCMD	
-taskkill /F /IM nircmd.exe	
-taskkill /F /IM mksct.exe	
-taskkill /F /IM nircmdc.exe	
 cls	
 title Bang chon chuc nang - Toolkit cho Gameloop
 cd bin/vi/scripts/	
@@ -40,8 +36,4 @@ call pkginstaller.bat
 call PKGCheck.bat	
 :exit	
 taskkill /F /IM adb.exe	
-taskkill /F /IM mksct.exe	
-taskkill /F /IM nircmd.exe	
-taskkill /F /IM nircmdc.exe	
-taskkill /F /IM Toolkit.exe	
 exit 
